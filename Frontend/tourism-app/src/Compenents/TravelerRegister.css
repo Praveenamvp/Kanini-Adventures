@@ -1,0 +1,17 @@
+/* .landingbody{
+height:200px ;
+margin-left: 15%;
+width: 900px;} */
+
+.main-log{
+    
+    width: 100%; 
+    max-width: 1200px; 
+    margin: 0 auto; 
+    background-color: aquamarine;
+    padding: 20px;
+  }
+  .text-lg-start{
+    background-image: url('D:\newwwwwwww\Tour\Frontend\tourism-app\src\Images\sign1.jpeg');
+    background-size: 1180px 750px;
+  }

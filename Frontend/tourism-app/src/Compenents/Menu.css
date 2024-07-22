@@ -1,0 +1,78 @@
+
+.navbar-collapse{
+    float:right;
+
+}
+.card-img-top{
+    height: 100px;
+}
+.btn{
+}
+.log{
+    font-family: "Apricots", cursive;
+    font-style: italic;
+
+    color:#3E5B5B;
+    font-size: 26px;
+    text-decoration: none;
+    font-weight: 800;
+}
+.ss{
+    width:250px;
+    font-weight: 900;
+}
+.nav-item{
+font-size: 20px;
+font-weight: 600;
+color: rgb(0, 0, 0);
+}
+.icon-call{
+    margin-top: 0.2rem;
+    font-size: 25px;
+    margin-left: 15rem;
+
+}
+.icon-call i{
+    color: rgb(100, 187, 187);
+}
+.card-img-main{
+    height:500px
+}
+/* styles.css (or your preferred CSS file) */
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  .slide-in {
+    animation: slideInFromLeft 0.5s ease-in-out;
+  }
+  
+  .card-text-main {
+    background-color: rgba(0, 0, 0, 0.2);
+    width: 12em;
+display:flex;
+align-items: center;   /* Use any stylish font you prefer */
+
+}
+ .card-text-main{
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+ }
+ .nav-item{
+
+ }
+ .nav-item  :hover{
+    color: #638d8d;
+    font-weight: 900;
+ }

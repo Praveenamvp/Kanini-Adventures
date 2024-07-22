@@ -1,0 +1,18 @@
+/* .landingbody{
+height:200px ;
+margin-left: 15%;
+width: 900px;} */
+
+.main-log-agentRegister{
+    
+    width: 100%; /* Take up the full width of its parent container */
+    max-width: 1200px; /* Set a maximum width to avoid getting too wide on large screens */
+    margin: 0 auto; /* Center the div horizontally within its parent container */
+    padding: 20px;
+  }
+  .text-lg-start{
+    /* background-color: hsl(0, 0%, 96%) */
+    background-image: url('D:\newwwwwwww\Tour\Frontend\tourism-app\src\Images\sign1.jpeg');
+    background-size: 1180px 1280px;
+  }
+

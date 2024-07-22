@@ -1,0 +1,22 @@
+/* .landingbody{
+height:200px ;
+margin-left: 15%;
+width: 900px;} */
+
+.main-log{
+    
+    width: 100%; /* Take up the full width of its parent container */
+    max-width: 1200px; /* Set a maximum width to avoid getting too wide on large screens */
+    margin: 0 auto; /* Center the div horizontally within its parent container */
+    background-color: aquamarine;
+    padding: 20px;
+  }
+
+  .bac{
+    background-image: linear-gradient(to bottom right, rgb(223, 238, 234), rgb(212, 229, 229));
+  }
+  .handleAddDate{
+    border: none;
+    color:white;
+    background-color: black;
+  }
